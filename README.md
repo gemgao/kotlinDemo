@@ -34,6 +34,8 @@ as菜单栏code--->convert java file to kontlin file,如下图：
 
 >第三步：现在配置就ok了，可以用kontlin写代码了：
 
+![这里写图片描述](http://img.blog.csdn.net/20170410142152225?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZ2VtZ2Fvemhlbg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 如图，我给textview设置了一个文字，添加了点击跳转另一个页面，3行代码，确实比java简化了好多，更多深入的代码和功能我以后有时间了在发博客。
 
 [Demo下载](https://github.com/gemgao/kotlinDemo)
