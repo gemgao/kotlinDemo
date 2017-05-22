@@ -14,7 +14,7 @@ class LoginActivity : AppCompatActivity() {
         setContentView(R.layout.activity_login)
         tv_main.text = "测试成功"
         tv_main.setOnClickListener {
-            startActivity<KontlinActivity>()
+            startActivity<ScrollingActivity>()
             toast(tv_main.text) }
 
     }

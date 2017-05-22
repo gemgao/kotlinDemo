@@ -69,7 +69,7 @@ class KontlinActivity : AppCompatActivity() {
     fun main(args: Array<String>) {
         for (arg in args)
             print(arg)
-        //另一种
+        //另一种写法
         for (i in args.indices)
             print(args[i])
     }
